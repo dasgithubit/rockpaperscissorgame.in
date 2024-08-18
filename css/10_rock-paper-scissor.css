@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+    color: white;
+    background-color: black;
+    
+}
+
+img {
+    height: 40px;
+    
+}
+
+.figure{
+    padding: 30px;
+    margin-right: 12px;
+    border-radius: 70px;
+    border: 2px solid white;
+    background-color: black;
+
+}
+
+.game-name{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.reset,
+.css-play{
+    padding: 8px 10px;
+    background-color: white;
+    color: black;
+    border: none;
+}
